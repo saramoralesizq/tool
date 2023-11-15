@@ -9,6 +9,8 @@ Qrecent.style.display = "none"
 Qpayment.style.display = "none"
 }
 
+firstQ();
+
 function selectYear(){
 Qperson.style.display = "none"
 if(UG.checked){
